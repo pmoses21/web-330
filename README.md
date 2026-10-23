@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WEB 330 Enterprise JavaScript II
 ## [Bellevue University](http://bellevue.edu "Bellevue University is a private, non-profit university located in Bellevue, Nebraska, United States.")
 
@@ -63,3 +64,7 @@ Approach every week from top-to-bottom and do not move to the next assignment/ex
 git clone https://github.com/buwebdev/web-330.git
 cd web-330
 ```
+=======
+# web-330
+Web 330 Repo
+>>>>>>> 462cb96fb45d7f4708ba33a0c3610487a0deac57
