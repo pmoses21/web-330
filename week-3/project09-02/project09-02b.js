@@ -4,8 +4,8 @@
       Project 09-01
 
       Project to read field values from session storage
-      Author: 
-      Date:   
+      Author: Pat M
+      Date:  11/8/2026
 
       Filename: project09-02b.js
 */
@@ -21,4 +21,19 @@ let region = document.getElementById("region");
 let miles = document.getElementById("miles");
 let comments = document.getElementById("comments");
 
+//Get submitted values from session
+riderName.textContent = sessionStorage.getItem("riderName");
 
+ageGroup.textContent = sessionStorage.getItem("ageGroup");
+
+bikeOption.textContent = sessionStorage.getItem("bikeOption");
+
+routeOption.textContent = sessionStorage.getItem("routeOption");
+
+accOption.textContent = sessionStorage.getItem("accOption");
+
+region.textContent = sessionStorage.getItem("region");
+
+miles.textContent = sessionStorage.getItem("miles");
+
+comments.textContent = sessionStorage.getItem("comments");
